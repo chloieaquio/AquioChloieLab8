@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1058651373995",
+    "firebase_url": "https://aquiochloielab8-ee264.firebaseio.com",
+    "project_id": "aquiochloielab8-ee264",
+    "storage_bucket": "aquiochloielab8-ee264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058651373995:android:f15f78f773921e63",
+        "android_client_info": {
+          "package_name": "com.aquio.chloie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058651373995-3mk57i6r8kqi30m9crkjmpc5d2d0kgd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aquio.chloie",
+            "certificate_hash": "41e413e04c6f1c50e9c39e344374b9f89ee700e0"
+          }
+        },
+        {
+          "client_id": "1058651373995-4acvq2denortec10lc94bdbt2aiabcmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw9oNf0HjXFqOtVAMXKHHO8U7JGXEThsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058651373995-4acvq2denortec10lc94bdbt2aiabcmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
